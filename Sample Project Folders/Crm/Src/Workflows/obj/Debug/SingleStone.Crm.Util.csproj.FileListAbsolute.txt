@@ -1,0 +1,36 @@
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\obj\Debug\SingleStone.Crm.Util.csprojResolveAssemblyReference.cache
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\SingleStone.Crm.Util.dll.config
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\SingleStone.Crm.Util.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\SingleStone.Crm.Util.pdb
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\AntiXSSLibrary.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.IdentityModel.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\obj\Debug\SingleStone.Crm.Util.dll
+C:\Work\CrmStone\ExtremeCrm\Crm\Src\Workflows\SingleStone.Crm.Util\obj\Debug\SingleStone.Crm.Util.pdb
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\SingleStone.Crm.Util.dll.config
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\SingleStone.Crm.Util.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\SingleStone.Crm.Util.pdb
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\AntiXSSLibrary.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.IdentityModel.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Client.CodeGeneration.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Client.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Portal.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Portal.Files.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\obj\Debug\SingleStone.Crm.Util.dll
+C:\Work\GitHub\crm-alm\Sample Project Folders\Crm\Src\Workflows\obj\Debug\SingleStone.Crm.Util.pdb
